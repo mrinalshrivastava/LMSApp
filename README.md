@@ -14,6 +14,8 @@ Screens will be shown as per the type of
 login. Successful login will send a unique
 ID of the user to service to identify the type
 of user.
+Yes Web service will be used to login into
+the application.
 
 Start the class Tab User will navigate to this screen after
 selecting "Start the Class" on the home
