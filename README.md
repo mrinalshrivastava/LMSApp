@@ -2,6 +2,7 @@ LMSApp
 ======
 
 Mayank's project
+
 Login User will navigate to this screen after
 Yes Web service will be used to login into
 the application.
@@ -109,3 +110,22 @@ answer and tap on submit button. This
 submit button will call a web service and
 result of the test will be added to the Test
 Report tab.
+
+
+Test Report Tab User will navigate to this screen after
+Yes Web service will be used to generate
+report of all the test given by the user.
+selecting "Test Report" tab from Home
+Screen. This screen will show list of all the
+subjects that user is assigned to. Tapping
+on the subject user will navigate to a
+screen showing list of all the tests user has
+given in past for the selected subject.
+
+
+Push Notification
+Implementation
+Handling the notification service and
+sending the device token to the server.
+Yes Web service to send the device token to
+server.
